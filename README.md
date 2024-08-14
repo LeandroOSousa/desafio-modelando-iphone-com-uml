@@ -1,4 +1,9 @@
-# desafio-modelando-iphone-com-uml
-Desafio Dio - Bootcamp Claro - Java com Spring Boot
+# Desafio Dio - Bootcamp Claro - Java com Spring Boot
+
+## Modelando Iphone com UML
+
+### Descrição do Desafio
+
+Chegou a hora de colocarmos em prática toda a concepção de análise de negócios, requisitos, conceitos da programação orientada a objetos e modelagem UML. Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência. A diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
 
 [![](https://mermaid.ink/img/pako:eNptkk1P4zAQhv9KNKeiTVGTpq2J9lLBpYdFCFZ7QLkM8ZBam3iiSYyg3f73ddLQFgX7YI_9zjyvP_aQsyZIIS-xae4MFoJVZgPfNvWWLQU__02nwSPVwtq1LL9cY3Isx5J1jULlln9TSa9sTc5jzT2-UYGaZWNbEkttJ-llR21vYgzbH3eD4EfLOcrk6hTX6JovC42n54YtDrmTp1aMLYKqjwbd4ZI29n3Glabw1YcS1lUkfEZhS1bTJdz4bINyyyJk-A_vJt8BR5dw5tG7eTHygIWxJ-dOygumNsfT3fMbrl9wcmnHYWl2-Jn-iYYQvO8Kjfav3KMyaLdUUQapn2qUvxlkttOhv_OnD5tD2oqjEIRdsYX0FcvGR67W_sjDFzmtkjbdQw2fqBtCqNFCuod3SKPr-ULFySqJ46WaLWbLKIQPSBfXS5XMk0ip5Uz5HtM0Sg4h7JirLml2bPNYLdRNtFJ9yed-s8ce_gPHK9vJ?type=png)](https://mermaid.live/edit#pako:eNptkk1P4zAQhv9KNKeiTVGTpq2J9lLBpYdFCFZ7QLkM8ZBam3iiSYyg3f73ddLQFgX7YI_9zjyvP_aQsyZIIS-xae4MFoJVZgPfNvWWLQU__02nwSPVwtq1LL9cY3Isx5J1jULlln9TSa9sTc5jzT2-UYGaZWNbEkttJ-llR21vYgzbH3eD4EfLOcrk6hTX6JovC42n54YtDrmTp1aMLYKqjwbd4ZI29n3Glabw1YcS1lUkfEZhS1bTJdz4bINyyyJk-A_vJt8BR5dw5tG7eTHygIWxJ-dOygumNsfT3fMbrl9wcmnHYWl2-Jn-iYYQvO8Kjfav3KMyaLdUUQapn2qUvxlkttOhv_OnD5tD2oqjEIRdsYX0FcvGR67W_sjDFzmtkjbdQw2fqBtCqNFCuod3SKPr-ULFySqJ46WaLWbLKIQPSBfXS5XMk0ip5Uz5HtM0Sg4h7JirLml2bPNYLdRNtFJ9yed-s8ce_gPHK9vJ)
